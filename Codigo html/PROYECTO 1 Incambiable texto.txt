@@ -1,0 +1,43 @@
+<HTML> 
+<title>Reposteria Keikeu </Title>   
+<body BGColor="DDA0DD"> 
+<Left> 
+<Font Color="778899" Size="5" face="courier new"> 
+<Center>
+<h1> Keikeu </h1> 
+<Hr Font Color="BC8F8F" size="15">
+
+<html lang="es">
+<head>
+	<meta charset="">
+	<title>Menù Lateral con Css</title>
+	<link rel="stylesheet"  href="C:\Users\Reyna\Desktop\Nueva carpeta\Codigo html\EStilos .css ">
+	<link rel="stylesheet" href ="C:\Users\Reyna\Desktop\Nueva carpeta\Codigo html\fontello-ie7.css">
+<body>
+	<header class="header">
+		<div class="container">
+		<div class="btn-menu">
+			<label for="btn-menu"Class="fontello-ie7.css"></label>
+		</div>
+			<div class="logo">
+				<h1>Menu</h1>
+			</div>
+			<nav class="menu">
+				<a href="#">Inicio</a>
+				<a href="#">Nosotros</a>
+				<a href="#">Blog</a>
+				<a href="#">Contacto</a>
+			</nav>
+		</div>
+	</header>
+	
+<Center>
+<a href= https://www.google.com.mx/maps/dir//Colonia+Condesa,+Ciudad+de+M%C3%A9xico,+CDMX/@19.4153209,-99.1804615,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x85d1ff4489e635e3:0xed1c076e8bc9b8e7!2m2!1d-99.1774462!2d19.4149803">
+Sucursal Principal 
+</a> 
+<Br>
+<Br>
+<img align=left vspace=35 hspace=35>
+<IMG SRC="into.jpg" Width="500" Height="500" align="Left">
+<img align=Right vspace=35 hspace=35>
+<IMG SRC="into1.jpg" Width="500" Height="500" align="Right">
